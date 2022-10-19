@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "cat":"sneakers",
+      "name": "white sneakers premium",
+      "price": "1000",
+      "img": "/img/img-8.webp",
+      "color":"white"
+    },
+    {
+      "id": 2,
+      "cat":"ball",
+      "name": "green footbal shoes",
+      "price": "800",
+      "img": "/img/img-9.jpg",
+      "color":"green "
+    },{
+      "id": 13,
+      "cat":"sneakers",
+      "name": "blue sneakers cool",
+      "price": "750",
+      "img": "img/img-14.webp",
+      "color":"blue"
+    },
+    {
+      "id": 3,
+      "cat":"spo",
+      "name": "black cheap sport shoes",
+      "price": "600",
+      "img": "img/img-3.webp",
+      "color":"black"
+    },
+    {
+      "id": 4,
+      "cat":"spo",
+      "name": "green cheap sport shoes",
+      "price": "650",
+      "img": "img/img-4.webp",
+      "color":"green"
+    },
+    {
+      "id": 5,
+      "cat":"spo",
+      "name": "white sport cheap shoes",
+      "price": "650",
+      "img": "img/img-5.webp",
+      "color":"white"
+    },
+    {
+      "id": 6,
+      "cat":"ball",
+      "name": "black footbal shoes high quality",
+      "price": "950",
+      "img": "img/img-6.webp",
+      "color":"black"
+    },{
+      "id": 7,
+      "cat":"ball",
+      "name": "blue (crazy footbal shoes)",
+      "price": "920",
+      "img": "img/img-7.webp",
+      "color":"blue"
+    },{
+      "id": 15,
+      "cat":"sneakers",
+      "name": "black sneakers casual shoes",
+      "price": "500",
+      "img": "img/img-1.webp",
+      "color":"black"
+    },{
+      "id": 8,
+      "cat":"sneakers",
+      "name": "black sneakers casual shoes",
+      "price": "500",
+      "img": "img/img-2.webp",
+      "color":"black"
+    },
+    {
+      "id": 9,
+      "cat":"ball",
+      "name": "red sport shoes",
+      "price": "700",
+      "img": "/img/img-10.webp",
+      "color":"orange"
+    },
+    {
+      "id": 10,
+      "cat":"ball",
+      "name": "orange great sporty sohes",
+      "price": "1000",
+      "img": "/img/img-11.webp",
+      "color":"orange"
+    },
+    {
+      "id": 11,
+      "cat":"sneakers",
+      "name": "normal sneakesr shoes ",
+      "price": "500",
+      "img": "img/img-12.webp",
+      "color":"orange"
+    },
+    {
+      "id": 12,
+      "cat":"spo",
+      "name": "orange baisc sport shoes",
+      "price": "550",
+      "img": "img/img-13.jpg",
+      "color":"orange"
+    },
+    
+    {
+      "id": 14,
+      "cat":"sneakers",
+      "name": "white cloth shoes",
+      "price": "600",
+      "img": "img/img-15.webp",
+      "color":"white"
+    }
+
+  ]
